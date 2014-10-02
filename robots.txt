@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://malina.github.io/say/sitemap.xml 
